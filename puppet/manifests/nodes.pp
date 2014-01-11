@@ -1,3 +1,3 @@
 node default {
-	include git, users
+	include git, users, rails, rbenv
 }
